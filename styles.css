@@ -134,10 +134,12 @@ ul {
   background-color: #DEECD1;
   position: relative;
   padding-top: 100px;
+  max-width: 100%;
 }
 
 .middle-container {
   padding-top: 100px;
+  max-width: 100%;
 }
 
 .bottom-container {
@@ -147,6 +149,7 @@ ul {
   padding: 100px 0 40px;
   margin-top: 500px;
   text-align: center;
+  max-width: 100%;
 }
 
 .skill-row {
